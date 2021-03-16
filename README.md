@@ -32,6 +32,8 @@ Google Colab and Kaggle notebooks with free GPU : [![Open In Colab](https://cola
 ![Screenshot](images/FPS.png)
 
 ## Streamlit App that performs object detection
+![Screenshot](images/스크린샷 2021-03-16 오후 4.40.25.png)
+
 Running the application can be done following the instructions above:
 
 ### Dependencies
