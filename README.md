@@ -24,7 +24,7 @@ In this project, we leverage the state-of-the-art YOLOv5 in autonomous object de
 ## Enviorments
 Google Colab and Kaggle notebooks with free GPU : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/#create=true)
 
-## Training Results
+## Training Results (512 x 512)
 ### 1.mAP@50 
 ![Screenshot](images/map.png)
 
