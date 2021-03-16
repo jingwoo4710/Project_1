@@ -27,10 +27,10 @@ Google Colab and Kaggle notebooks with free GPU : [![Open In Colab](https://cola
 
 ## Training Results (512 x 512)
 ### 1.mAP@50 
-![Screenshot](images/map.png)
+![Screenshot](images/mAP2.png)
 
 ### 2.Inference Time
-![Screenshot](images/FPS.png)
+![Screenshot](images/Inference.png)
 
 ## Streamlit App that performs object detection
 ![Screenshot](images/streamlit.png)
