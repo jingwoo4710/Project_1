@@ -26,10 +26,10 @@ In this project, we leverage the state-of-the-art YOLOv5 in autonomous object de
 Google Colab and Kaggle notebooks with free GPU : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/#create=true)
 
 ## Training Results (512 x 512)
-### 1.mAP@50 
+### 1. Inference Time
 ![Screenshot](images/mAP2.png)
 
-### 2.Inference Time
+### 2. mAP@50 
 ![Screenshot](images/Inference.png)
 
 ## Streamlit App that performs object detection
